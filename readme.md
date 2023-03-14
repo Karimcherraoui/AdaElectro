@@ -1,3 +1,4 @@
+
 # ADAELECTRO avec WordPress et WooCommerce
 http://adaelectro.epizy.com/
 
@@ -41,3 +42,31 @@ Ouvrez votre navigateur Web et allez sur l'URL http://localhost/wordpress (ou le
 Vous pouvez maintenant utiliser WordPress pour créer et gérer votre site Web en local. Pour accéder à l'interface d'administration de WordPress, allez sur l'URL http://localhost/wordpress/wp-admin/ et entrez les informations de connexion que vous avez créées à l'étape 5.
 
 
+## Description du projet
+ite web e-commerce avec WordPress et le plugin WooCommerce. Il comprend des captures d'écran des plugins installés, des pages, ainsi que des simulations d'achat avec des captures d'écran des factures et des étapes.
+
+## Thème WordPress
+Nous avons choisi le thème officiel de WooCommerce, PHLOX, qui offre des fonctionnalités de commerce électronique compatibles avec WooCommerce.
+
+## Produits
+Nous avons créé une boutique en ligne vendant 15 produits avec différentes variations et en promotion. Nous avons également ajouté quelques articles fictifs sur le site web.
+
+## Plugins installés
+Nous avons installé un plugins pour le marketing (SEO, SEM) et pour se conformer à la loi RGPD (GDPR).
+
+Le plugin installé :
+- Yoast SEO
+Voici des captures d'écran des plugins installés :
+![Plugins installés](screenshots/plugins.png)
+
+## Configuration de WooCommerce
+Nous avons configuré le plugin WooCommerce en ajoutant des méthodes de paiement et de livraison, ainsi qu'en personnalisant les emails de confirmation.
+
+Voici des captures d'écran de la configuration de WooCommerce :
+![Configuration de WooCommerce](screenshots/woocommerce-configuration.png)
+
+## Simulations d'achat
+Nous avons effectué des simulations d'achat sur le site web pour tester le processus de commande, de paiement et de confirmation.
+
+Voici des captures d'écran des simulations d'achat :
+![Simulations d'achat](screenshots/checkout.png)
